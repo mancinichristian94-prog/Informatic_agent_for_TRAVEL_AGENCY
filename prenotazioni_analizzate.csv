@@ -1,0 +1,101 @@
+Cliente,Destinazione,Prezzo,Giorno_Partenza,Durata,Incasso,Categoria
+Marco,Parigi,751,2026-11-05,12,751,Europa
+Giulia,New York,1750,2026-11-01,5,1750,America
+Marco,Bangkok,1342,2026-11-08,12,1342,Asia
+Giulia,Bangkok,1359,2026-11-05,3,1359,Asia
+Marco,Londra,885,2026-11-12,10,885,Europa
+Luca,Roma,544,2026-11-12,7,544,Europa
+Davide,Bangkok,1333,2026-11-12,6,1333,Asia
+Giulia,New York,1789,2026-11-05,10,1789,America
+Chiara,Rio de Janeiro,1491,2026-11-07,9,1491,America
+Davide,Rio de Janeiro,1589,2026-11-04,4,1589,America
+Mario,Parigi,820,2026-11-06,3,820,Europa
+Davide,Tokyo,1702,2026-11-13,14,1702,Asia
+Marco,New York,1799,2026-11-04,13,1799,America
+Davide,New York,1764,2026-11-14,6,1764,America
+Mario,Londra,971,2026-11-15,10,971,Europa
+Elena,Rio de Janeiro,1458,2026-11-03,14,1458,America
+Sara,Cairo,695,2026-11-07,4,695,Africa
+Elena,Parigi,879,2026-11-08,5,879,Europa
+Mario,New York,1785,2026-11-04,14,1785,America
+Giulia,Tokyo,1738,2026-11-13,3,1738,Asia
+Luca,Londra,912,2026-11-02,3,912,Europa
+Paolo,Parigi,883,2026-11-12,5,883,Europa
+Mario,Londra,912,2026-11-10,13,912,Europa
+Luca,Roma,553,2026-11-14,7,553,Europa
+Marco,Bangkok,1328,2026-11-03,14,1328,Asia
+Anna,New York,1729,2026-11-01,5,1729,America
+Paolo,Tokyo,1859,2026-11-08,3,1859,Asia
+Sara,Cairo,667,2026-11-15,3,667,Africa
+Marco,Londra,983,2026-11-03,10,983,Europa
+Mario,Rio de Janeiro,1437,2026-11-12,12,1437,America
+Elena,Bangkok,1315,2026-11-10,13,1315,Asia
+Luca,New York,1738,2026-11-07,14,1738,America
+Mario,Parigi,823,2026-11-10,14,823,Europa
+Sara,Cairo,692,2026-11-05,4,692,Africa
+Anna,Tokyo,1886,2026-11-10,5,1886,Asia
+Giulia,Londra,889,2026-11-05,4,889,Europa
+Anna,Rio de Janeiro,1546,2026-11-14,5,1546,America
+Giulia,Cairo,798,2026-11-07,9,798,Africa
+Giulia,Parigi,860,2026-11-15,3,860,Europa
+Elena,Cairo,638,2026-11-09,12,638,Africa
+Luca,Cairo,728,2026-11-12,10,728,Africa
+Davide,Parigi,877,2026-11-05,12,877,Europa
+Marco,Rio de Janeiro,1441,2026-11-01,12,1441,America
+Anna,Rio de Janeiro,1543,2026-11-10,12,1543,America
+Chiara,Cairo,659,2026-11-10,4,659,Africa
+Mario,Roma,628,2026-11-01,5,628,Europa
+Paolo,Bangkok,1359,2026-11-15,11,1359,Asia
+Marco,Parigi,798,2026-11-02,9,798,Europa
+Anna,Cairo,730,2026-11-14,6,730,Africa
+Giulia,Cairo,653,2026-11-06,12,653,Africa
+Elena,Parigi,851,2026-11-09,7,851,Europa
+Giulia,Londra,912,2026-11-08,4,912,Europa
+Elena,Tokyo,1865,2026-11-13,13,1865,Asia
+Elena,Tokyo,1811,2026-11-05,10,1811,Asia
+Davide,Londra,952,2026-11-01,6,952,Europa
+Luca,Cairo,709,2026-11-13,11,709,Africa
+Luca,Roma,553,2026-11-07,7,553,Europa
+Anna,Cairo,788,2026-11-15,11,788,Africa
+Davide,Tokyo,1860,2026-11-05,6,1860,Asia
+Giulia,Parigi,841,2026-11-06,12,841,Europa
+Paolo,Cairo,747,2026-11-13,7,747,Africa
+Elena,Cairo,735,2026-11-07,11,735,Africa
+Marco,Londra,944,2026-11-03,10,944,Europa
+Mario,Cairo,786,2026-11-12,5,786,Africa
+Anna,New York,1718,2026-11-10,3,1718,America
+Sara,New York,1757,2026-11-03,5,1757,America
+Sara,New York,1708,2026-11-05,6,1708,America
+Anna,New York,1607,2026-11-06,4,1607,America
+Luca,Bangkok,1229,2026-11-09,3,1229,Asia
+Mario,Tokyo,1810,2026-11-13,9,1810,Asia
+Mario,Bangkok,1260,2026-11-14,10,1260,Asia
+Anna,Tokyo,1734,2026-11-12,9,1734,Asia
+Mario,Cairo,616,2026-11-05,7,616,Africa
+Paolo,New York,1698,2026-11-15,14,1698,America
+Davide,Bangkok,1223,2026-11-01,3,1223,Asia
+Mario,New York,1780,2026-11-14,9,1780,America
+Anna,Tokyo,1815,2026-11-14,9,1815,Asia
+Paolo,Cairo,760,2026-11-14,11,760,Africa
+Anna,Cairo,617,2026-11-04,5,617,Africa
+Davide,Roma,553,2026-11-05,11,553,Europa
+Chiara,Londra,903,2026-11-12,3,903,Europa
+Elena,Roma,531,2026-11-10,3,531,Europa
+Sara,Rio de Janeiro,1593,2026-11-10,6,1593,America
+Chiara,Roma,516,2026-11-05,11,516,Europa
+Elena,Parigi,836,2026-11-07,8,836,Europa
+Sara,Cairo,638,2026-11-04,13,638,Africa
+Chiara,Rio de Janeiro,1425,2026-11-01,5,1425,America
+Anna,Roma,652,2026-11-14,3,652,Europa
+Elena,Bangkok,1259,2026-11-14,6,1259,Asia
+Chiara,Rio de Janeiro,1456,2026-11-05,14,1456,America
+Giulia,Bangkok,1219,2026-11-07,11,1219,Asia
+Mario,Cairo,743,2026-11-10,5,743,Africa
+Anna,Rio de Janeiro,1542,2026-11-10,14,1542,America
+Luca,Roma,531,2026-11-06,11,531,Europa
+Marco,Rio de Janeiro,1485,2026-11-05,9,1485,America
+Anna,Parigi,885,2026-11-04,14,885,Europa
+Sara,Roma,557,2026-11-02,6,557,Europa
+Sara,Parigi,879,2026-11-04,5,879,Europa
+Chiara,New York,1614,2026-11-15,12,1614,America
+Sara,Londra,987,2026-11-10,7,987,Europa
